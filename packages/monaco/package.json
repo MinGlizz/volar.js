@@ -1,5 +1,5 @@
 {
-	"name": "@volar/monaco",
+	"name": "@volargo/monaco",
 	"version": "1.10.4",
 	"main": "out/index.js",
 	"license": "MIT",

@@ -1,5 +1,5 @@
 {
-	"name": "@volar/source-map",
+	"name": "@volargo/source-map",
 	"version": "1.10.4",
 	"main": "out/index.js",
 	"license": "MIT",

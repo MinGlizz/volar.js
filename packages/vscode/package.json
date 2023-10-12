@@ -1,5 +1,5 @@
 {
-	"name": "@volar/vscode",
+	"name": "@volargo/vscode",
 	"version": "1.10.4",
 	"main": "out/index.js",
 	"license": "MIT",

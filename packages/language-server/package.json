@@ -1,5 +1,5 @@
 {
-	"name": "@volar/language-server",
+	"name": "@volargo/language-server",
 	"version": "1.10.4",
 	"main": "out/index.js",
 	"license": "MIT",
